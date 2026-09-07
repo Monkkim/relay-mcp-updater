@@ -1,0 +1,167 @@
+{
+  "schema": 1,
+  "release": "v1.0.0",
+  "server_version": "2.0.1",
+  "files": {
+    "src/relay-client.ts": {
+      "accepted_sha256": [
+        "9258a203ab07c3795c60f354cf93aae58c676f28aa8fcc98a1b06df0d6ac543f"
+      ],
+      "sha256": "9258a203ab07c3795c60f354cf93aae58c676f28aa8fcc98a1b06df0d6ac543f",
+      "optional_before": false
+    },
+    "src/index.ts": {
+      "accepted_sha256": [
+        "6338b7bc8ea6a8d1e1f19ee3cdadf28c9105fba0ad3af4b565b1e37de34ebbef",
+        "a9b822203e2e3d1595de92d923eac7dbb018f71c0f2893f2d11fcef11026fb6b",
+        "d54c45b78083c691879a705b69ea830fa3ed369c781d82f31d9eea300f868c22"
+      ],
+      "sha256": "d54c45b78083c691879a705b69ea830fa3ed369c781d82f31d9eea300f868c22",
+      "optional_before": false
+    },
+    "src/config.ts": {
+      "accepted_sha256": [
+        "579bbf1af9e942ee585c7fdd2beee697109e8eb1c12d175dac61fccf16558cc3"
+      ],
+      "sha256": "579bbf1af9e942ee585c7fdd2beee697109e8eb1c12d175dac61fccf16558cc3",
+      "optional_before": false
+    },
+    "src/auth/clients.ts": {
+      "accepted_sha256": [
+        "c075c1a187ecf4b1b1ae71674efae0987d4730922ccfdb93f7f95bd1f6447b81"
+      ],
+      "sha256": "c075c1a187ecf4b1b1ae71674efae0987d4730922ccfdb93f7f95bd1f6447b81",
+      "optional_before": false
+    },
+    "src/auth/jsonfile.ts": {
+      "accepted_sha256": [
+        "c71843608c1470d96593f224702233e888ae972b70b192b508cc5bf2e7ad81cd"
+      ],
+      "sha256": "c71843608c1470d96593f224702233e888ae972b70b192b508cc5bf2e7ad81cd",
+      "optional_before": false
+    },
+    "src/auth/pending.ts": {
+      "accepted_sha256": [
+        "570c29c11a6b999016bac25a9d8d261665f47016d93e8044f843fecab2747831"
+      ],
+      "sha256": "570c29c11a6b999016bac25a9d8d261665f47016d93e8044f843fecab2747831",
+      "optional_before": false
+    },
+    "src/auth/tokens.ts": {
+      "accepted_sha256": [
+        "999e2276a083bb34ed60dbd86f509703263fdd4328c4a10d5aeb94c7065c548d"
+      ],
+      "sha256": "999e2276a083bb34ed60dbd86f509703263fdd4328c4a10d5aeb94c7065c548d",
+      "optional_before": false
+    },
+    "src/auth/pocketbase.ts": {
+      "accepted_sha256": [
+        "24a12e2f524e2fedee76ff2a6897c3217d45901fad1cfa37ea099159e212a0b5",
+        "7a88262876d4293cf7e0d5ca175461fe0ec71fc22f6b8dac762453d1d1ad0d24"
+      ],
+      "sha256": "7a88262876d4293cf7e0d5ca175461fe0ec71fc22f6b8dac762453d1d1ad0d24",
+      "optional_before": false
+    },
+    "src/auth/codes.ts": {
+      "accepted_sha256": [
+        "f48a907cba69854177c1b067821dc4b56c8abffbedd38c053d3fa4557cee689f"
+      ],
+      "sha256": "f48a907cba69854177c1b067821dc4b56c8abffbedd38c053d3fa4557cee689f",
+      "optional_before": false
+    },
+    "src/auth/provider.ts": {
+      "accepted_sha256": [
+        "19f3d546ee1391ac4f64ce8ec54875f213700ff780bc4d1d4693b7aed0e6c579",
+        "7591d342b1911bdc4e5a4ffdbd7687ca4c3bf54d76d250b0417660505788abce"
+      ],
+      "sha256": "7591d342b1911bdc4e5a4ffdbd7687ca4c3bf54d76d250b0417660505788abce",
+      "optional_before": false
+    },
+    "src/auth/sessions.ts": {
+      "accepted_sha256": [
+        "f2286a1fd0b0d6b7af36690c8171e978a3a43d16be04c06911a0902035ee7aa2"
+      ],
+      "sha256": "f2286a1fd0b0d6b7af36690c8171e978a3a43d16be04c06911a0902035ee7aa2",
+      "optional_before": false
+    },
+    "src/auth/refresh-loop.ts": {
+      "accepted_sha256": [
+        "c04fcfdb24835eb13747126179b5402f47f1820132b2e6cf0dbb27dd206015b5"
+      ],
+      "sha256": "c04fcfdb24835eb13747126179b5402f47f1820132b2e6cf0dbb27dd206015b5",
+      "optional_before": false
+    },
+    "src/public/relay-login.js": {
+      "accepted_sha256": [
+        "6315c3f7bf54d1b2db7c112252f86579251ff0b987065c9ab2096b0718c0f284"
+      ],
+      "sha256": "6315c3f7bf54d1b2db7c112252f86579251ff0b987065c9ab2096b0718c0f284",
+      "optional_before": true
+    },
+    "src/public/auth-methods.js": {
+      "accepted_sha256": [
+        "f9aab1bb44f763eb20377b860aa1940b5ba4b519e8fd33dfa12adb21e570e228"
+      ],
+      "sha256": "f9aab1bb44f763eb20377b860aa1940b5ba4b519e8fd33dfa12adb21e570e228",
+      "optional_before": true
+    },
+    "package.json": {
+      "accepted_sha256": [
+        "07611234ae5bc9a7f3e5c6a3c24f591a886a211bec275713b4a81972c1356e55",
+        "ea3a0062e7b712ddf8dc8c90ff39aee73c1e5f93f4cf623cf9eae21411a93788"
+      ],
+      "sha256": "ea3a0062e7b712ddf8dc8c90ff39aee73c1e5f93f4cf623cf9eae21411a93788",
+      "optional_before": false
+    },
+    "package-lock.json": {
+      "accepted_sha256": [
+        "4db1919d5b098be9491f034e191cffac4d12c99f92b62395dab75529a5e7d76a"
+      ],
+      "sha256": "4db1919d5b098be9491f034e191cffac4d12c99f92b62395dab75529a5e7d76a",
+      "optional_before": false
+    },
+    "tsconfig.json": {
+      "accepted_sha256": [
+        "1d8d9704fcb38ee17ab03ecf113949eb21f370bd131082ae1e1d1a835318d071"
+      ],
+      "sha256": "1d8d9704fcb38ee17ab03ecf113949eb21f370bd131082ae1e1d1a835318d071",
+      "optional_before": false
+    },
+    "Dockerfile": {
+      "accepted_sha256": [
+        "045ff458d752526692e214cbff6e037984b9d931bf07640983f7eb9b3fb61223"
+      ],
+      "sha256": "045ff458d752526692e214cbff6e037984b9d931bf07640983f7eb9b3fb61223",
+      "optional_before": false
+    },
+    "railway.json": {
+      "accepted_sha256": [
+        "48ac732855348b48ed085dc62a7b0d9c457b688c407347b3f9784e43cd183a92"
+      ],
+      "sha256": "48ac732855348b48ed085dc62a7b0d9c457b688c407347b3f9784e43cd183a92",
+      "optional_before": false
+    },
+    "tests/auth-methods.test.mjs": {
+      "accepted_sha256": [
+        "4262a15520cd7f0d6268ffb7521993876990043203d2907b9ed00feed387841a"
+      ],
+      "sha256": "4262a15520cd7f0d6268ffb7521993876990043203d2907b9ed00feed387841a",
+      "optional_before": true
+    },
+    "tests/social-login.test.mjs": {
+      "accepted_sha256": [
+        "34d15bcd8c441db760729bcd9513a21a5e0eafdfaf579abeba6d4e662e98dfe7"
+      ],
+      "sha256": "34d15bcd8c441db760729bcd9513a21a5e0eafdfaf579abeba6d4e662e98dfe7",
+      "optional_before": true
+    },
+    "src/build-identity.ts": {
+      "accepted_sha256": [
+        "945a9cd9678ca134314f6020077ff13f93a4ef844fee82713e68bec6e9485250"
+      ],
+      "sha256": "945a9cd9678ca134314f6020077ff13f93a4ef844fee82713e68bec6e9485250",
+      "optional_before": true
+    }
+  },
+  "runtime_sha256": "cd28a053a8e210ab1f1eb66595cba010c1148dca7665809f6c8fce87d50ac58e"
+}

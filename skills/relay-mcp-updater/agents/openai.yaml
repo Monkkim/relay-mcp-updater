@@ -1,0 +1,4 @@
+interface:
+  display_name: "Relay MCP Updater"
+  short_description: "Relay MCP 소셜 로그인 복구 및 Railway 업데이트"
+  default_prompt: "Use $relay-mcp-updater to diagnose and update my compatible Railway Relay MCP server while preserving configuration and vault data."
